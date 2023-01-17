@@ -1,0 +1,1 @@
+The project was created for my friend. And I wrote in one day. Here have module for: statistics, verification of ads and users, support messages and comments. Of course, there is also API
